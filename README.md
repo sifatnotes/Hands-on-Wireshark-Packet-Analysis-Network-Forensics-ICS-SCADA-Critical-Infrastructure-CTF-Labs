@@ -1,0 +1,2 @@
+# Hands-on-Wireshark-Packet-Analysis-Network-Forensics-ICS-SCADA-Critical-Infrastructure-CTF-Labs
+A practical collection of cybersecurity CTF labs covering deep packet analysis (Wireshark fundamentals, display filters, DNS tunneling/leakage, TCP handshake , raw wire protocols) &amp; Operational Technology / ICS / SCADA security (substation outages, water plant intrusions, HMI zone security, industrial protocol analysis, power grid SOC drills).
